@@ -1,14 +1,14 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-20T07:35:29.906Z",
- "lastSuccessfulCheck": null,
+ "generatedAt": "2026-10-20T07:48:45.362Z",
+ "lastSuccessfulCheck": "2026-10-20T09:45:00+02:00",
  "check": {
-  "attemptedAt": "2026-10-20T07:35:29.906Z",
-  "status": "mislukt",
-  "source": "ah.nl productpagina (automatisch) + gecontroleerd aanbiedingenbestand",
-  "message": "AH weigert geautomatiseerde toegang (wi162513: HTTP 403). Niet omzeild. Geen recent gecontroleerd aanbiedingenbestand: aanbiedingen zijn onbekend.",
-  "checked": 0,
-  "failed": 129
+  "attemptedAt": "2026-10-20T07:48:45.362Z",
+  "status": "gedeeltelijk",
+  "source": "ah.nl productpagina (automatisch), AH-folder via reclamefolder.nl (automatisch) + gecontroleerd aanbiedingenbestand",
+  "message": "AH weigert geautomatiseerde toegang (wi162513: HTTP 403). Niet omzeild. AH-folder via reclamefolder.nl gelezen: 152 aanbiedingen (0 nieuw opgehaald). Aanbiedingenbestand van 2026-10-20 gebruikt.",
+  "checked": 6,
+  "failed": 123
  },
  "products": {
   "wi162513": {
@@ -148,8 +148,8 @@
    "checkedAt": null
   },
   "wi4183": {
-   "status": "onbekend",
-   "checkedAt": null
+   "status": "geen-aanbieding",
+   "checkedAt": "2026-10-20T09:45:00+02:00"
   },
   "wi197296": {
    "status": "onbekend",
@@ -268,8 +268,8 @@
    "checkedAt": null
   },
   "wi135757": {
-   "status": "onbekend",
-   "checkedAt": null
+   "status": "geen-aanbieding",
+   "checkedAt": "2026-10-20T09:45:00+02:00"
   },
   "wi141565": {
    "status": "onbekend",
@@ -304,12 +304,12 @@
    "checkedAt": null
   },
   "wi458995": {
-   "status": "onbekend",
-   "checkedAt": null
+   "status": "geen-aanbieding",
+   "checkedAt": "2026-10-20T09:45:00+02:00"
   },
   "wi63453": {
-   "status": "onbekend",
-   "checkedAt": null
+   "status": "geen-aanbieding",
+   "checkedAt": "2026-10-20T09:45:00+02:00"
   },
   "wi462468": {
    "status": "onbekend",
@@ -432,8 +432,8 @@
    "checkedAt": null
   },
   "wi51768": {
-   "status": "onbekend",
-   "checkedAt": null
+   "status": "aanbieding",
+   "checkedAt": "2026-10-20T09:45:00+02:00"
   },
   "wi160718": {
    "status": "onbekend",
@@ -476,8 +476,8 @@
    "checkedAt": null
   },
   "wi33693": {
-   "status": "onbekend",
-   "checkedAt": null
+   "status": "geen-aanbieding",
+   "checkedAt": "2026-10-20T09:45:00+02:00"
   },
   "wi450534": {
    "status": "onbekend",
@@ -528,6 +528,30 @@
    "checkedAt": null
   }
  },
- "offers": [],
- "rejected": []
+ "offers": [
+  {
+   "ahId": "wi51768",
+   "name": "AH Boerenkool",
+   "packageText": "300 g",
+   "url": "https://www.ah.nl/producten/product/wi51768/ah-boerenkool",
+   "currency": "EUR",
+   "regularPriceCents": 199,
+   "offerPriceCents": 99,
+   "type": "directe-korting",
+   "conditions": "voor €0,99 (normaal €1,99), per stuk",
+   "requiredQuantity": 1,
+   "freeQuantity": null,
+   "bundlePriceCents": null,
+   "validFrom": "2026-10-19",
+   "validUntil": "2026-10-25",
+   "restriction": "bonuskaart",
+   "restrictionText": "AH Bonus uit de actiefolder week 43",
+   "source": "AH-productpagina (prijs) + AH-actiefolder via reclamefolder.nl (geldigheid), gecontroleerd door Claude",
+   "checkedAt": "2026-10-20T09:45:00+02:00",
+   "verification": "geverifieerd"
+  }
+ ],
+ "rejected": [],
+ "folderCheckedAt": "2026-10-20T07:48:45.362Z",
+ "candidates": []
 }

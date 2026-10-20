@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-20T07:33:06.843Z",
+ "generatedAt": "2026-10-20T07:35:29.906Z",
  "lastSuccessfulCheck": null,
  "check": {
-  "attemptedAt": "2026-10-20T07:33:06.843Z",
+  "attemptedAt": "2026-10-20T07:35:29.906Z",
   "status": "mislukt",
   "source": "ah.nl productpagina (automatisch) + gecontroleerd aanbiedingenbestand",
   "message": "AH weigert geautomatiseerde toegang (wi162513: HTTP 403). Niet omzeild. Geen recent gecontroleerd aanbiedingenbestand: aanbiedingen zijn onbekend.",

@@ -1,0 +1,533 @@
+{
+ "schemaVersion": 1,
+ "generatedAt": "2026-10-20T07:25:10.479Z",
+ "lastSuccessfulCheck": null,
+ "check": {
+  "attemptedAt": "2026-10-20T07:25:10.479Z",
+  "status": "mislukt",
+  "source": "ah.nl productpagina (automatisch) + gecontroleerd aanbiedingenbestand",
+  "message": "AH weigert geautomatiseerde toegang (wi162513: HTTP 403). Niet omzeild. Geen recent gecontroleerd aanbiedingenbestand: aanbiedingen zijn onbekend.",
+  "checked": 0,
+  "failed": 129
+ },
+ "products": {
+  "wi162513": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi3512": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi543604": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi468009": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi58169": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi577697": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi425972": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi496270": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi469879": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi167872": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi468585": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi167873": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi167874": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi30428": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi182914": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi188265": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi471758": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi585656": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi159536": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi585658": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi800": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi30851": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi481844": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi3527": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi2226": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi553395": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi164936": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi608430": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi608325": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi226267": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi769": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi67746": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi4177": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi226367": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi4183": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi197296": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi4076": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi4083": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi4160": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi4117": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi41194": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi4164": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi4169": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi67842": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi60036": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi4180": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi171425": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi226498": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi788": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi239451": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi230708": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi104818": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi169813": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi611646": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi238971": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi238968": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi611644": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi123955": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi96049": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi164358": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi533083": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi533079": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi436917": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi589120": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi135757": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi141565": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi39826": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi564897": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi442922": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi33658": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi130273": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi1519": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi96643": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi458995": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi63453": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi462468": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi197172": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi48897": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi63361": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi58043": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi564827": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi564838": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi397907": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi216622": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi617532": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi496227": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi104063": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi197972": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi216641": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi197977": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi414884": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi414969": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi414962": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi589124": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi531832": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi531848": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi199715": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi187592": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi232208": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi792": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi420789": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi4137": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi591868": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi54074": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi4074": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi51768": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi160718": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi98974": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi4095": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi213895": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi426004": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi482844": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi129684": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi168153": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi106240": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi569985": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi33693": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi450534": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi2008": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi525390": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi202222": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi525283": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi531890": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi531887": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi450246": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi234759": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi518844": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi575488": {
+   "status": "onbekend",
+   "checkedAt": null
+  },
+  "wi450167": {
+   "status": "onbekend",
+   "checkedAt": null
+  }
+ },
+ "offers": [],
+ "rejected": []
+}

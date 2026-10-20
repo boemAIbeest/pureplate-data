@@ -1,14 +1,14 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-20T07:48:45.362Z",
+ "generatedAt": "2026-10-20T08:21:55.045Z",
  "lastSuccessfulCheck": "2026-10-20T09:45:00+02:00",
  "check": {
-  "attemptedAt": "2026-10-20T07:48:45.362Z",
+  "attemptedAt": "2026-10-20T08:21:55.045Z",
   "status": "gedeeltelijk",
-  "source": "ah.nl productpagina (automatisch), AH-folder via reclamefolder.nl (automatisch) + gecontroleerd aanbiedingenbestand",
-  "message": "AH weigert geautomatiseerde toegang (wi162513: HTTP 403). Niet omzeild. AH-folder via reclamefolder.nl gelezen: 152 aanbiedingen (0 nieuw opgehaald). Aanbiedingenbestand van 2026-10-20 gebruikt.",
-  "checked": 6,
-  "failed": 123
+  "source": "AH-bonusfolder folder.ah.nl (automatisch), kopie via reclamefolder.nl (automatisch) + gecontroleerd aanbiedingenbestand",
+  "message": "AH-bonusfolder \"Bonus week 43 2026\" (2026-10-19 t/m 2026-10-25, geldigheid volgens weeknummer): 31 van 31 pagina's gelezen, 105 actiegroepen en 13 directe productlinks. Groepspagina's: AH weigert geautomatiseerde toegang (HTTP 403), niet omzeild. AH-folder via reclamefolder.nl gelezen: 152 aanbiedingen (0 nieuw opgehaald). Aanbiedingenbestand van 2026-10-20 gebruikt.",
+  "checked": 8,
+  "failed": 121
  },
  "products": {
   "wi162513": {
@@ -260,8 +260,8 @@
    "checkedAt": null
   },
   "wi436917": {
-   "status": "onbekend",
-   "checkedAt": null
+   "status": "aanbieding",
+   "checkedAt": "2026-10-20T00:00:00+02:00"
   },
   "wi589120": {
    "status": "onbekend",
@@ -396,8 +396,8 @@
    "checkedAt": null
   },
   "wi199715": {
-   "status": "onbekend",
-   "checkedAt": null
+   "status": "aanbieding",
+   "checkedAt": "2026-10-20T00:00:00+02:00"
   },
   "wi187592": {
    "status": "onbekend",
@@ -530,6 +530,48 @@
  },
  "offers": [
   {
+   "ahId": "wi436917",
+   "name": "AH Kipgehakt naturel",
+   "packageText": "300 g",
+   "url": "https://www.ah.nl/producten/product/wi436917/ah-kipgehakt-naturel",
+   "currency": "EUR",
+   "regularPriceCents": 399,
+   "offerPriceCents": null,
+   "type": "gratis",
+   "conditions": "2e gratis (50% korting over de combinatie), m.u.v. Biologisch. Combineren met ander gehakt uit de groep mag; PurePlate rekent alleen paren van hetzelfde product.",
+   "requiredQuantity": 2,
+   "freeQuantity": 1,
+   "bundlePriceCents": null,
+   "validFrom": "2026-10-19",
+   "validUntil": "2026-10-25",
+   "restriction": null,
+   "restrictionText": "Bonuskaart niet apart vermeld op de groepspagina",
+   "source": "AH-groepspagina https://www.ah.nl/bonus/groep/815124?week=43 (browsercontrole, PurePlate-AH-setup 2026-10-20)",
+   "checkedAt": "2026-10-20T00:00:00+02:00",
+   "verification": "geverifieerd"
+  },
+  {
+   "ahId": "wi199715",
+   "name": "AH Mager rundergehakt 300g",
+   "packageText": "300 g",
+   "url": "https://www.ah.nl/producten/product/wi199715/ah-mager-rundergehakt-300g",
+   "currency": "EUR",
+   "regularPriceCents": 469,
+   "offerPriceCents": null,
+   "type": "gratis",
+   "conditions": "2e gratis (50% korting over de combinatie), m.u.v. Biologisch. Combineren met ander gehakt uit de groep mag; PurePlate rekent alleen paren van hetzelfde product.",
+   "requiredQuantity": 2,
+   "freeQuantity": 1,
+   "bundlePriceCents": null,
+   "validFrom": "2026-10-19",
+   "validUntil": "2026-10-25",
+   "restriction": null,
+   "restrictionText": "Bonuskaart niet apart vermeld op de groepspagina",
+   "source": "AH-groepspagina https://www.ah.nl/bonus/groep/815124?week=43 (browsercontrole, PurePlate-AH-setup 2026-10-20)",
+   "checkedAt": "2026-10-20T00:00:00+02:00",
+   "verification": "geverifieerd"
+  },
+  {
    "ahId": "wi51768",
    "name": "AH Boerenkool",
    "packageText": "300 g",
@@ -552,6 +594,21 @@
   }
  ],
  "rejected": [],
- "folderCheckedAt": "2026-10-20T07:48:45.362Z",
+ "ahFolder": {
+  "status": "gedeeltelijk",
+  "publicationUrl": "https://folder.ah.nl/bonus-week-43-2026/",
+  "title": "Bonus week 43 2026",
+  "validFrom": "2026-10-19",
+  "validUntil": "2026-10-25",
+  "pagesExpected": 31,
+  "pagesScanned": 31,
+  "groupLinks": 105,
+  "groupsResolved": 0,
+  "groupsBlocked": 105,
+  "directProductLinks": 13,
+  "exactCatalogLinks": 2,
+  "message": "AH-bonusfolder \"Bonus week 43 2026\" (2026-10-19 t/m 2026-10-25, geldigheid volgens weeknummer): 31 van 31 pagina's gelezen, 105 actiegroepen en 13 directe productlinks. Groepspagina's: AH weigert geautomatiseerde toegang (HTTP 403), niet omzeild."
+ },
+ "folderCheckedAt": "2026-10-20T08:21:55.045Z",
  "candidates": []
 }

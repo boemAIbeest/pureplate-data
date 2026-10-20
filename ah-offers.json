@@ -1,12 +1,12 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-20T11:38:03.692Z",
- "lastSuccessfulCheck": "2026-10-20T11:38:03.692Z",
+ "generatedAt": "2026-10-20T11:39:00.807Z",
+ "lastSuccessfulCheck": "2026-10-20T11:39:00.807Z",
  "check": {
-  "attemptedAt": "2026-10-20T11:38:03.692Z",
+  "attemptedAt": "2026-10-20T11:39:00.807Z",
   "status": "gedeeltelijk",
   "source": "AH-bonusfolder folder.ah.nl (automatisch), kopie via reclamefolder.nl (automatisch) + gecontroleerd aanbiedingenbestand",
-  "message": "AH-bonusfolder \"Bonus week 43 2026\" (2026-10-19 t/m 2026-10-25, geldigheid volgens weeknummer): 31 van 31 pagina's gelezen, 105 actiegroepen en 13 directe productlinks. Groepspagina's: AH weigert geautomatiseerde toegang (HTTP 403), niet omzeild. Folderinhoud ongewijzigd: vorige uitlezing gebruikt. AH-folder via reclamefolder.nl gelezen: 152 aanbiedingen (0 nieuw opgehaald).  3 uit het gecontroleerde aanbiedingenbestand.",
+  "message": "AH-bonusfolder \"Bonus week 43 2026\" (2026-10-19 t/m 2026-10-25, geldigheid volgens weeknummer): 31 van 31 pagina's gelezen, 105 actiegroepen en 13 directe productlinks. Groepspagina's: AH weigert geautomatiseerde toegang (HTTP 403), niet omzeild. 116 acties uit de folder-PDF gelezen met 141 bijpassende producten; 1 prijs(en) zonder link niet gelezen. AH-folder via reclamefolder.nl gelezen: 152 aanbiedingen (0 nieuw opgehaald).  3 uit het gecontroleerde aanbiedingenbestand.",
   "checked": 8,
   "failed": 121
  },
@@ -607,7 +607,7 @@
   "groupsBlocked": 105,
   "directProductLinks": 13,
   "exactCatalogLinks": 2,
-  "message": "AH-bonusfolder \"Bonus week 43 2026\" (2026-10-19 t/m 2026-10-25, geldigheid volgens weeknummer): 31 van 31 pagina's gelezen, 105 actiegroepen en 13 directe productlinks. Groepspagina's: AH weigert geautomatiseerde toegang (HTTP 403), niet omzeild. Folderinhoud ongewijzigd: vorige uitlezing gebruikt."
+  "message": "AH-bonusfolder \"Bonus week 43 2026\" (2026-10-19 t/m 2026-10-25, geldigheid volgens weeknummer): 31 van 31 pagina's gelezen, 105 actiegroepen en 13 directe productlinks. Groepspagina's: AH weigert geautomatiseerde toegang (HTTP 403), niet omzeild. 116 acties uit de folder-PDF gelezen met 141 bijpassende producten; 1 prijs(en) zonder link niet gelezen."
  },
  "bonus": {
   "key": "3449506:OTdkMjgzMGYxZmY1ZTkyMmRiZTU5MGYxNTcyNWY5NGQzNDBkZDQ1NA==:v2",
@@ -4086,6 +4086,6 @@
    }
   ]
  },
- "folderCheckedAt": "2026-10-20T11:38:03.692Z",
+ "folderCheckedAt": "2026-10-20T11:39:00.807Z",
  "candidates": []
 }
